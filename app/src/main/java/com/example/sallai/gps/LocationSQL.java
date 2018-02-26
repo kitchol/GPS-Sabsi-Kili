@@ -5,7 +5,7 @@ package com.example.sallai.gps;
  */
 
 public class LocationSQL {
-        public static final String TABLE_NAME = "Personen";
+        public static final String TABLE_NAME = "Location";
 
 
         public static final String longitude = "Longitude";
