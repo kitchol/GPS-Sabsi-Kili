@@ -8,6 +8,7 @@ class Locations {
     String lo;
     String la;
     String my;
+    int x;
 
     public Locations(String lo, String la, String my) {
         this.lo = lo;
